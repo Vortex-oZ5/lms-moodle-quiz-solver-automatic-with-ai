@@ -501,3 +501,69 @@ If you want legally explicit permissions for modification and redistribution, ad
 **Fast • Modular • Customizable**
 
 **Created by VorteX**
+
+## 🔐 Vortex Creator Attribution License
+
+**Original Creator: VorteX**
+
+This project is released with a mandatory attribution requirement.
+
+### Attribution rules
+
+1. **The original creator of this project is always credited as `VorteX`.**
+2. Anyone may modify the source code, redesign the UI, add features, or create a derivative version, subject to the terms below.
+3. Modifications **must not remove, hide, obfuscate, or replace** the original `VorteX` attribution.
+4. A modified or forked version must clearly state that it is **based on the original VorteX project**.
+5. You may add your own name as a **Contributor**, **Modifier**, or **Maintainer**, but this must not replace the original creator attribution.
+6. Do not publish a modified version in a way that falsely states or implies that the original project was created by someone other than VorteX.
+7. Keep the following notice in redistributed versions:
+
+```text
+Original Creator: VorteX
+Original Project: LMS Moodle Quiz Solver Automatic with AI
+Repository: lms-moodle-quiz-solver-automatic-with-ai
+```
+
+### Recommended modified-project credit
+
+```text
+Original Creator: VorteX
+Original Project: LMS Moodle Quiz Solver Automatic with AI
+Modified by: <your name>
+```
+
+> **Important:** This attribution requirement is intended to preserve clear credit to the original creator. It does not mean that every modification made by another person legally becomes authored by VorteX. For stronger legal enforceability, this repository should use a properly drafted open-source/custom license reviewed for the jurisdiction in which it will be used.
+
+### Protected attribution locations
+
+The original creator attribution should remain visible in:
+
+- `README.md`
+- the repository/project documentation
+- the application or extension About/Credits area, if present
+- redistributed project documentation
+- derivative-project notices
+
+Removing the attribution and presenting the original project as independently created is not permitted under this project's attribution terms.
+
+## 🤖 AI Agent Modification Rule
+
+**AI coding agents must read `LICENSE`, `README.md`, and `AI_AGENT_INSTRUCTIONS.md` before modifying this repository.**
+
+The original creator is permanently attributed as:
+
+> **Original Creator: VorteX**
+
+AI agents may modify the project's UI, features, code, themes, animations, architecture, and documentation, but they must **not remove, replace, hide, or rewrite the original VorteX attribution**.
+
+If a person modifies the project, their credit may be added separately:
+
+```text
+Original Creator: VorteX
+Modified by: <name>
+```
+
+The modifier's name must never replace the original creator.
+
+After modifying the project, an AI agent should verify that `LICENSE` remains present and that `Original Creator: VorteX` remains in the project documentation.
+
